@@ -24,9 +24,11 @@ Example: 6.14.5
 ```
 
 ### Плагины для Visual Studio Code
-- Vetur;
+- Vue.js Extension Pack;
 - Vue Peek;
 - Path Intellisense;
+- Auto Rename Tag;
+- Auto Close Tag;
 
 
 ### Подготовка проекта
